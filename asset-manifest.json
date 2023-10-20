@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/2nd-ReactApp-Contact_list/static/css/main.4cd58a26.css",
+    "main.js": "/2nd-ReactApp-Contact_list/static/js/main.6ae173ff.js",
+    "static/js/787.1bb20df4.chunk.js": "/2nd-ReactApp-Contact_list/static/js/787.1bb20df4.chunk.js",
+    "index.html": "/2nd-ReactApp-Contact_list/index.html",
+    "main.4cd58a26.css.map": "/2nd-ReactApp-Contact_list/static/css/main.4cd58a26.css.map",
+    "main.6ae173ff.js.map": "/2nd-ReactApp-Contact_list/static/js/main.6ae173ff.js.map",
+    "787.1bb20df4.chunk.js.map": "/2nd-ReactApp-Contact_list/static/js/787.1bb20df4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cd58a26.css",
+    "static/js/main.6ae173ff.js"
+  ]
+}
